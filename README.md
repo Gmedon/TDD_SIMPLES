@@ -11,5 +11,8 @@ Nodemon é Ts-Node - para instalação deles e bem simples <br/>
 ### Para instalação
 `npm install`
 
-### Para rodar
+### Para rodar o projeto
 `npm run start-dev`
+
+### Para rodar o test
+`npm test`
